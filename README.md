@@ -20,7 +20,4 @@ I'm a developer who stays updated on trends and prioritizes quality. Always seek
 
 
 <ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/grixxnixx"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
 </ul>
